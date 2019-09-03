@@ -1,13 +1,15 @@
 @charset "UTF-8";
 /* CSS Document */
 
+
 .container{
 	padding: none;
 }
  
 
 body {
-font-family: 'Gayathri', sans-serif;	
+font-family: 'Gayathri', sans-serif, bold;
+
 	
 }
 
@@ -15,14 +17,6 @@ footer {
 	color: #000000;
 	
 }
-
-.image{
-  padding-top: 25px;
-  margin: 0px;
-  display:inline-block;
-
-}
-
 
 .bg-img { 
         background-image: url(demo.jpg) ;
@@ -38,3 +32,12 @@ footer {
       max-width: 100%;
       height: auto;
 		 }
+
+.image{
+  padding-top: 25px;
+  margin: 0px;
+  display:inline-block;
+
+}
+
+
