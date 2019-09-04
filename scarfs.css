@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.container{
+	padding: none;
+}
+ 
+
+body {
+font-family: 'Gayathri', sans-serif;
+
+	
+}
+
+footer {
+	color: #000000;
+	
+}
+
+.image{
+  padding-top: 25px;
+  margin: 0px;
+  display:inline-block;
+
+}
+
+
+.bg-img { 
+        background-image: url(demo.jpg) ;
+        background-position: center center;
+        background-repeat:  no-repeat;
+        background-attachment: fixed;
+        background-size:  cover;
+        background-color: #999;
+	 }
+
+.img-responsive {
+      display: block; 
+      max-width: 100%;
+      height: auto;
+		 }
